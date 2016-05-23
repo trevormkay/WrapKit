@@ -13,7 +13,22 @@
 		838CA28A1CE99971004850B5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 838CA2891CE99971004850B5 /* Assets.xcassets */; };
 		838CA28D1CE99971004850B5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 838CA28B1CE99971004850B5 /* LaunchScreen.storyboard */; };
 		838CA2971CE99B96004850B5 /* MainWebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 838CA2961CE99B96004850B5 /* MainWebView.swift */; };
-		838CA2991CE9A0A1004850B5 /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = 838CA2981CE9A0A1004850B5 /* index.html */; };
+		F3A7222A1CF2B12B00A4F7F9 /* robots.txt in Resources */ = {isa = PBXBuildFile; fileRef = F3A7221A1CF2B12B00A4F7F9 /* robots.txt */; };
+		F3A7222B1CF2B12B00A4F7F9 /* css in Resources */ = {isa = PBXBuildFile; fileRef = F3A7221B1CF2B12B00A4F7F9 /* css */; };
+		F3A7222C1CF2B12B00A4F7F9 /* downloads in Resources */ = {isa = PBXBuildFile; fileRef = F3A7221C1CF2B12B00A4F7F9 /* downloads */; };
+		F3A7222D1CF2B12B00A4F7F9 /* images in Resources */ = {isa = PBXBuildFile; fileRef = F3A7221D1CF2B12B00A4F7F9 /* images */; };
+		F3A7222E1CF2B12B00A4F7F9 /* portfolio in Resources */ = {isa = PBXBuildFile; fileRef = F3A7221E1CF2B12B00A4F7F9 /* portfolio */; };
+		F3A7222F1CF2B12B00A4F7F9 /* resume in Resources */ = {isa = PBXBuildFile; fileRef = F3A7221F1CF2B12B00A4F7F9 /* resume */; };
+		F3A722301CF2B12B00A4F7F9 /* apple-touch-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = F3A722201CF2B12B00A4F7F9 /* apple-touch-icon.png */; };
+		F3A722311CF2B12B00A4F7F9 /* favicon.ico in Resources */ = {isa = PBXBuildFile; fileRef = F3A722211CF2B12B00A4F7F9 /* favicon.ico */; };
+		F3A722321CF2B12B00A4F7F9 /* 404.html in Resources */ = {isa = PBXBuildFile; fileRef = F3A722221CF2B12B00A4F7F9 /* 404.html */; };
+		F3A722331CF2B12B00A4F7F9 /* app.js in Resources */ = {isa = PBXBuildFile; fileRef = F3A722231CF2B12B00A4F7F9 /* app.js */; };
+		F3A722341CF2B12B00A4F7F9 /* autohidingnavbar.js in Resources */ = {isa = PBXBuildFile; fileRef = F3A722241CF2B12B00A4F7F9 /* autohidingnavbar.js */; };
+		F3A722351CF2B12B00A4F7F9 /* headroom.js in Resources */ = {isa = PBXBuildFile; fileRef = F3A722251CF2B12B00A4F7F9 /* headroom.js */; };
+		F3A722361CF2B12B00A4F7F9 /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = F3A722261CF2B12B00A4F7F9 /* index.html */; };
+		F3A722371CF2B12B00A4F7F9 /* jquery.bootstrap-autohidingnavbar.js in Resources */ = {isa = PBXBuildFile; fileRef = F3A722271CF2B12B00A4F7F9 /* jquery.bootstrap-autohidingnavbar.js */; };
+		F3A722381CF2B12B00A4F7F9 /* video.js in Resources */ = {isa = PBXBuildFile; fileRef = F3A722281CF2B12B00A4F7F9 /* video.js */; };
+		F3A722391CF2B12B00A4F7F9 /* CNAME in Resources */ = {isa = PBXBuildFile; fileRef = F3A722291CF2B12B00A4F7F9 /* CNAME */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +40,22 @@
 		838CA28C1CE99971004850B5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		838CA28E1CE99971004850B5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		838CA2961CE99B96004850B5 /* MainWebView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainWebView.swift; sourceTree = "<group>"; };
-		838CA2981CE9A0A1004850B5 /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		F3A7221A1CF2B12B00A4F7F9 /* robots.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = robots.txt; sourceTree = "<group>"; };
+		F3A7221B1CF2B12B00A4F7F9 /* css */ = {isa = PBXFileReference; lastKnownFileType = folder; path = css; sourceTree = "<group>"; };
+		F3A7221C1CF2B12B00A4F7F9 /* downloads */ = {isa = PBXFileReference; lastKnownFileType = folder; path = downloads; sourceTree = "<group>"; };
+		F3A7221D1CF2B12B00A4F7F9 /* images */ = {isa = PBXFileReference; lastKnownFileType = folder; path = images; sourceTree = "<group>"; };
+		F3A7221E1CF2B12B00A4F7F9 /* portfolio */ = {isa = PBXFileReference; lastKnownFileType = folder; path = portfolio; sourceTree = "<group>"; };
+		F3A7221F1CF2B12B00A4F7F9 /* resume */ = {isa = PBXFileReference; lastKnownFileType = folder; path = resume; sourceTree = "<group>"; };
+		F3A722201CF2B12B00A4F7F9 /* apple-touch-icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "apple-touch-icon.png"; sourceTree = "<group>"; };
+		F3A722211CF2B12B00A4F7F9 /* favicon.ico */ = {isa = PBXFileReference; lastKnownFileType = image.ico; path = favicon.ico; sourceTree = "<group>"; };
+		F3A722221CF2B12B00A4F7F9 /* 404.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = 404.html; sourceTree = "<group>"; };
+		F3A722231CF2B12B00A4F7F9 /* app.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = app.js; sourceTree = "<group>"; };
+		F3A722241CF2B12B00A4F7F9 /* autohidingnavbar.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = autohidingnavbar.js; sourceTree = "<group>"; };
+		F3A722251CF2B12B00A4F7F9 /* headroom.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = headroom.js; sourceTree = "<group>"; };
+		F3A722261CF2B12B00A4F7F9 /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		F3A722271CF2B12B00A4F7F9 /* jquery.bootstrap-autohidingnavbar.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "jquery.bootstrap-autohidingnavbar.js"; sourceTree = "<group>"; };
+		F3A722281CF2B12B00A4F7F9 /* video.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = video.js; sourceTree = "<group>"; };
+		F3A722291CF2B12B00A4F7F9 /* CNAME */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CNAME; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,7 +103,22 @@
 		838CA2951CE99A06004850B5 /* www */ = {
 			isa = PBXGroup;
 			children = (
-				838CA2981CE9A0A1004850B5 /* index.html */,
+				F3A7221A1CF2B12B00A4F7F9 /* robots.txt */,
+				F3A7221B1CF2B12B00A4F7F9 /* css */,
+				F3A7221C1CF2B12B00A4F7F9 /* downloads */,
+				F3A7221D1CF2B12B00A4F7F9 /* images */,
+				F3A7221E1CF2B12B00A4F7F9 /* portfolio */,
+				F3A7221F1CF2B12B00A4F7F9 /* resume */,
+				F3A722201CF2B12B00A4F7F9 /* apple-touch-icon.png */,
+				F3A722211CF2B12B00A4F7F9 /* favicon.ico */,
+				F3A722221CF2B12B00A4F7F9 /* 404.html */,
+				F3A722231CF2B12B00A4F7F9 /* app.js */,
+				F3A722241CF2B12B00A4F7F9 /* autohidingnavbar.js */,
+				F3A722251CF2B12B00A4F7F9 /* headroom.js */,
+				F3A722261CF2B12B00A4F7F9 /* index.html */,
+				F3A722271CF2B12B00A4F7F9 /* jquery.bootstrap-autohidingnavbar.js */,
+				F3A722281CF2B12B00A4F7F9 /* video.js */,
+				F3A722291CF2B12B00A4F7F9 /* CNAME */,
 			);
 			path = www;
 			sourceTree = "<group>";
@@ -136,10 +181,25 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F3A722381CF2B12B00A4F7F9 /* video.js in Resources */,
+				F3A722371CF2B12B00A4F7F9 /* jquery.bootstrap-autohidingnavbar.js in Resources */,
+				F3A722331CF2B12B00A4F7F9 /* app.js in Resources */,
+				F3A7222B1CF2B12B00A4F7F9 /* css in Resources */,
 				838CA28D1CE99971004850B5 /* LaunchScreen.storyboard in Resources */,
-				838CA2991CE9A0A1004850B5 /* index.html in Resources */,
+				F3A7222A1CF2B12B00A4F7F9 /* robots.txt in Resources */,
+				F3A722321CF2B12B00A4F7F9 /* 404.html in Resources */,
+				F3A722361CF2B12B00A4F7F9 /* index.html in Resources */,
 				838CA28A1CE99971004850B5 /* Assets.xcassets in Resources */,
+				F3A7222F1CF2B12B00A4F7F9 /* resume in Resources */,
+				F3A7222C1CF2B12B00A4F7F9 /* downloads in Resources */,
+				F3A722391CF2B12B00A4F7F9 /* CNAME in Resources */,
+				F3A7222D1CF2B12B00A4F7F9 /* images in Resources */,
+				F3A722311CF2B12B00A4F7F9 /* favicon.ico in Resources */,
+				F3A722301CF2B12B00A4F7F9 /* apple-touch-icon.png in Resources */,
 				838CA2881CE99971004850B5 /* Main.storyboard in Resources */,
+				F3A722341CF2B12B00A4F7F9 /* autohidingnavbar.js in Resources */,
+				F3A7222E1CF2B12B00A4F7F9 /* portfolio in Resources */,
+				F3A722351CF2B12B00A4F7F9 /* headroom.js in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -304,6 +364,7 @@
 				838CA2931CE99971004850B5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
